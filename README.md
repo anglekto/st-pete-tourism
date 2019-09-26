@@ -1,2 +1,2 @@
 # St Pete Tourism
-Based off the website: https://sdg-tourism.netlify.com/
+Create a replica of the website: https://sdg-tourism.netlify.com/
